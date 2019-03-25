@@ -310,3 +310,6 @@ Started GET "/students" for 207.237.54.233 at 2019-03-25 15:05:46 +0000
 Processing by StaticController#students as HTML
   Rendering static/students.html.erb within layouts/application
   Rendered static/students.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 362ms (Views: 359.4ms | ActiveRecord: 0.0ms)
+
+
